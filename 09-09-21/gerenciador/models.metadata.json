@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"gerenciador.models"}],"uuid":"ceda9e8faa864173938624cb8f05bc0d"}

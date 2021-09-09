@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"gerenciador.roles"},{"v":{"$numberInt":"2"},"unique":true,"key":{"roleNumber":{"$numberInt":"1"},"name":{"$numberInt":"1"}},"name":"roleNumber_1_name_1","ns":"gerenciador.roles"}],"uuid":"64a946d33cf344dfaede0a15869ac473"}

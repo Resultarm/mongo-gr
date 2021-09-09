@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"gerenciador.categories"}],"uuid":"8d00be050f6f4203a1330076c7004cec"}

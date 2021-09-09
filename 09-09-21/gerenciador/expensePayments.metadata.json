@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"gerenciador.expensePayments"}],"uuid":"3abb02ac7fd047c3a58de878f3523d99"}
